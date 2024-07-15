@@ -1,7 +1,3 @@
-Voici un README amélioré intégrant les détails du rapport d'intervention et des rich snippets pour améliorer le référencement et l'accessibilité.
-
----
-
 # Optimisation SEO et Accessibilité pour Nina Carducci
 
 Bienvenue dans le dépôt GitHub pour le projet d'optimisation SEO et d'accessibilité du site web de Nina Carducci. Ce projet vise à améliorer les performances, le référencement local et l'accessibilité du site web d'une photographe talentueuse, Nina Carducci.
